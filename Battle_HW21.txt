@@ -1,0 +1,37 @@
+<!--Project Name: Hands-On Exercises 6.4-6.7(HW21)
+    Author:Jemia Battle
+    Date Last Modified: May 2, 2019
+-->
+
+
+1.CSS Class ID Relatively Posiitoned
+
+relativeposition (background-color: #9OEE9O);
+                  position: relative;
+		  left: 15px;}
+
+HTML
+
+<div class="relativeposition"><nav/>
+
+2.CSS for an ID
+
+#fixed  {position: fixed;
+         background-color: ##D3D3D3;
+	 font-weight: bold;
+	 padding: 10px;}
+
+
+3.CSS to Configure Image file name 
+
+ul { list-style-image: url("myimage.gif");}
+
+HTML
+
+<ul></ul>
+
+
+4. CSS Configue Unordered List to Dispaly Square Marker 
+
+ul { list-style-type: square;}
+
