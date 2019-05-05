@@ -6,6 +6,8 @@
 
 1.CSS Class ID Relatively Posiitoned
 
+must be a class!
+
 relativeposition (background-color: #9OEE9O);
                   position: relative;
 		  left: 15px;}
